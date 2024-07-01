@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IACC Airlines</string>
+    <string name="login">Login</string>
+    <string name="view_reservations">View Reservations</string>
+    <string name="delete_reservation">Delete Reservation</string>
+    <string name="no_reservations">No Reservations</string>
+    <string name="new_offers">New Flight Offers</string>
+    <string name="upcoming_reservations">Upcoming Reservations</string>
+    <string name="check_offers">Check out the latest flight offers!</string>
+    <string name="upcoming_reservations_text">You have %d upcoming reservations.</string>
+    <string name="appwidget_text">Flight Widget</string>
+    <string name="app_widget_description">Displays selected flight reservations</string>
+</resources>
